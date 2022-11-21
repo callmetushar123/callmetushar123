@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![@callmetushar123's Holopin board](https://holopin.me/callmetushar123)](https://holopin.io/@callmetushar123)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=callmetushar123)](https://git.io/streak-stats)
